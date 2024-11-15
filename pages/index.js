@@ -829,7 +829,7 @@ export default function Home() {
                     >
                       X
                     </button>
-                    <img src='/Amit.gif' alt="Full-screen" className="max-w-full max-h-full" />
+                    <img src='/Hemant.gif' alt="Full-screen" className="max-w-full max-h-full" />
                   </div>
                   <div>
                   {/* <a href="https://wa.link/92x71l">
